@@ -1,0 +1,1 @@
+RT-start\nbp-sq\nem-bp\nend-em\nto-MW\nto-VK\nRT-bp\nstart-MW\nto-hr\nsq-AR\nRT-hr\nbp-to\nhr-VK\nst-VK\nsq-end\nMW-sq\nto-RT\nem-er\nbp-hr\nMW-em\nst-bp\nto-start\nem-st\nst-end\nVK-sq\nhr-st\n

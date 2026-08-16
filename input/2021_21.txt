@@ -1,0 +1,1 @@
+Player 1 starting position: 7\nPlayer 2 starting position: 5\n

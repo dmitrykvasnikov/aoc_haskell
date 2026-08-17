@@ -21,6 +21,7 @@ library
                     , Solutions
                     , Years.Y2015.Day1
                     , Years.Y2015.Day2
+                    , Years.Y2015.Day3
     -- other-modules:
     -- other-extensions:
     build-depends:

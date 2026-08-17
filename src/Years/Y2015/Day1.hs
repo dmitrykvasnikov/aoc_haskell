@@ -7,8 +7,8 @@ solution = Solution (2015, 1) parser p1 p2
 
 type Input = String
 
-parser :: [String] -> Input
-parser = head
+parser :: String -> Input
+parser = id
 p1 :: Input -> String
 p1 = show . foldr (flip move) 0
 p2 :: Input -> String

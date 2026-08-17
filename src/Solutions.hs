@@ -2,12 +2,16 @@ module Solutions where
 
 import Types
 import Years.Y2015.Day1 qualified as Y2015D1
+import Years.Y2015.Day2 qualified as Y2015D2
 
--- Example of solution
--- solution :: Solution
--- solution = Solution (2015, 1) parser p1 p2
+-- Example of solution module
+-- parser takes input file as single line, so running lines on it is solution responsibility
+-- module Years.Y___.Day__ where
+-- import Types
 -- type Input = ()
--- parser :: [String] -> Input
+-- solution :: Solution
+-- solution = Solution (____, __) parser p1 p2
+-- parser :: String -> Input
 -- parser _ = ()
 -- p1 :: Input -> String
 -- p1 _ = ""
@@ -17,4 +21,5 @@ import Years.Y2015.Day1 qualified as Y2015D1
 solutions :: [Solution]
 solutions =
     [ Y2015D1.solution
+    , Y2015D2.solution
     ]

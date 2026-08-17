@@ -1,7 +1,7 @@
 module Main where
 
 -- use for debug of single day (see second main function)
-import Years.Y2015.Day1 (solution)
+import Years.Y2015.Day2 (solution)
 
 -- import Solutions (solutions)
 import System.Directory
@@ -12,12 +12,13 @@ import Types
 debug :: Bool
 debug = False
 
+-- input doesn't split on lines automatically
 runSolution :: Solution -> IO ()
 runSolution (Solution (y, d) p p1 p2) = do
     let f = if debug then "./input/sample.txt" else "./input/" <> show y <> "_" <> printf "%02d" d <> ".txt"
     doesFileExist f >>= \case
         True -> do
-            input <- p . lines <$> readFile f
+            input <- p <$> readFile f
             putStrLn $ "Solution for Year " <> show y <> ", Day " <> show d
             putStrLn $ "Part1: " <> p1 input <> "\nPart2: " <> p2 input
         False -> do

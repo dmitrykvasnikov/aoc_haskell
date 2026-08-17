@@ -1,1 +1,58 @@
-&kl -> ll\n%vd -> ff, mb\n%dx -> hb, fx\n%jj -> xt, th\n%ld -> fq, ff\n%bn -> ff, lg\n%mv -> hb, mx\n%mx -> xp\n%qm -> gz, tj\n%zd -> zp\n%tq -> mf\n&vm -> ll\n%qr -> jj\n%bv -> th, lr\n%rf -> lq, tj\nbroadcaster -> lp, fn, tp, zz\n%rk -> rc, th\n&tj -> xh, gv, gz, bt, ct, vb, lp\n%dg -> rf, tj\n%xt -> rk, th\n%fq -> ff\n%gz -> dg\n%rl -> hb\n%rc -> st, th\n%km -> fz, hb\n%gv -> ct\n%lr -> tq\n%lg -> vd\n%jh -> th\n%rs -> sq, ff\n%bt -> kc\n%mf -> th, qr\n%xf -> km\n%tp -> hb, sv\n%ch -> hb, mv\n%xp -> hb, xf\n%xh -> js\n%fz -> hb, dx\n%zp -> bn\n&kv -> ll\n&ll -> rx\n%zz -> fj, ff\n%lp -> gv, tj\n&vb -> ll\n&th -> tq, lr, vm, fn, qr\n%sq -> zd, ff\n%st -> th, jh\n%fx -> rl, hb\n%fj -> rs\n%lq -> tj\n%fn -> th, bv\n%ct -> xh\n&ff -> kl, zd, lg, zz, fj, zp\n%js -> tj, bt\n%mb -> ld, ff\n&hb -> sv, xf, kv, tp, mx\n%kc -> qm, tj\n%sv -> ch\n
+&kl -> ll
+%vd -> ff, mb
+%dx -> hb, fx
+%jj -> xt, th
+%ld -> fq, ff
+%bn -> ff, lg
+%mv -> hb, mx
+%mx -> xp
+%qm -> gz, tj
+%zd -> zp
+%tq -> mf
+&vm -> ll
+%qr -> jj
+%bv -> th, lr
+%rf -> lq, tj
+broadcaster -> lp, fn, tp, zz
+%rk -> rc, th
+&tj -> xh, gv, gz, bt, ct, vb, lp
+%dg -> rf, tj
+%xt -> rk, th
+%fq -> ff
+%gz -> dg
+%rl -> hb
+%rc -> st, th
+%km -> fz, hb
+%gv -> ct
+%lr -> tq
+%lg -> vd
+%jh -> th
+%rs -> sq, ff
+%bt -> kc
+%mf -> th, qr
+%xf -> km
+%tp -> hb, sv
+%ch -> hb, mv
+%xp -> hb, xf
+%xh -> js
+%fz -> hb, dx
+%zp -> bn
+&kv -> ll
+&ll -> rx
+%zz -> fj, ff
+%lp -> gv, tj
+&vb -> ll
+&th -> tq, lr, vm, fn, qr
+%sq -> zd, ff
+%st -> th, jh
+%fx -> rl, hb
+%fj -> rs
+%lq -> tj
+%fn -> th, bv
+%ct -> xh
+&ff -> kl, zd, lg, zz, fj, zp
+%js -> tj, bt
+%mb -> ld, ff
+&hb -> sv, xf, kv, tp, mx
+%kc -> qm, tj
+%sv -> ch

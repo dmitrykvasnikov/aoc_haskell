@@ -1,1 +1,3 @@
-Hit Points: 100\nDamage: 8\nArmor: 2\n
+Hit Points: 100
+Damage: 8
+Armor: 2

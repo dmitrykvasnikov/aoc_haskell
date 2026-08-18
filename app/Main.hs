@@ -1,7 +1,7 @@
 module Main where
 
 -- use for debug of single day (see second main function)
-import Years.Y2015.Day3 (solution)
+import Years.Y2015.Day4 (solution)
 
 -- import Solutions (solutions)
 import System.Directory
@@ -10,7 +10,7 @@ import Types
 
 -- set debug to True to load ./input/sample.txt as input
 debug :: Bool
-debug = False
+debug = True
 
 -- input doesn't split on lines automatically
 runSolution :: Solution -> IO ()

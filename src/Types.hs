@@ -4,6 +4,9 @@ type Day = Int
 type Year = Int
 type Coord = (Int, Int)
 
+todo :: a
+todo = undefined
+
 data Solution where
     Solution ::
         { day :: (Year, Day)

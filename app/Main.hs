@@ -1,7 +1,7 @@
 module Main where
 
 -- use for debug of single day (see second main function)
-import Years.Y2015.Day4 (solution)
+import Years.Y2015.Day5 (solution)
 
 -- import Solutions (solutions)
 import System.Directory

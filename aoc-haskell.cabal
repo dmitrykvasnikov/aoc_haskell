@@ -23,6 +23,7 @@ library
                     , Years.Y2015.Day2
                     , Years.Y2015.Day3
                     , Years.Y2015.Day4
+                    , Years.Y2015.Day5
     -- other-modules:
     -- other-extensions:
     build-depends:

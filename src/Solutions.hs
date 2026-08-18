@@ -5,6 +5,7 @@ import Years.Y2015.Day1 qualified as Y2015D1
 import Years.Y2015.Day2 qualified as Y2015D2
 import Years.Y2015.Day3 qualified as Y2015D3
 import Years.Y2015.Day4 qualified as Y2015D4
+import Years.Y2015.Day5 qualified as Y2015D5
 
 -- Example of solution module
 -- parser takes input file as single line, so running lines on it is solution responsibility
@@ -26,4 +27,5 @@ solutions =
     , Y2015D2.solution
     , Y2015D3.solution
     , Y2015D4.solution
+    , Y2015D5.solution
     ]

@@ -10,7 +10,7 @@ import Types
 
 -- set debug to True to load ./input/sample.txt as input
 debug :: Bool
-debug = True
+debug = False
 
 -- input doesn't split on lines automatically
 runSolution :: Solution -> IO ()

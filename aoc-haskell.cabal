@@ -30,6 +30,7 @@ library
       , bytestring
       , containers
       , cryptohash-md5
+      , hex 
       , split 
     hs-source-dirs:   src
     default-language: GHC2024

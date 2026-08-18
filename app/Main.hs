@@ -18,7 +18,7 @@ runSolution (Solution (y, d) p p1 p2) = do
     let f = if debug then "./input/sample.txt" else "./input/" <> show y <> "_" <> printf "%02d" d <> ".txt"
     doesFileExist f >>= \case
         True -> do
-            input <- p <$> readFile f
+            input <- (p . lines) <$> readFile f
             putStrLn $ "Solution for Year " <> show y <> ", Day " <> show d
             putStrLn $ "Part1: " <> p1 input <> "\nPart2: " <> p2 input
         False -> do

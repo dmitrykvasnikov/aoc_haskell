@@ -26,6 +26,7 @@ library
     -- other-extensions:
     build-depends:
         base ^>=4.20.2.0
+      , containers
       , split 
     hs-source-dirs:   src
     default-language: GHC2024

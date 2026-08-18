@@ -15,8 +15,8 @@ area2 _ = error "Input error, wrong amount of size"
 
 solution :: Solution
 solution = Solution (2015, 2) parser p1 p2
-parser :: String -> Input
-parser = map sort . map (map read . splitOn "x") . lines
+parser :: [String] -> Input
+parser = map sort . map (map read . splitOn "x")
 p1 :: Input -> String
 p1 = show . sum . map area1
 p2 :: Input -> String
